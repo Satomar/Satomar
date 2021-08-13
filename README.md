@@ -1,4 +1,4 @@
-Welcome to Satomar's profile 👋
+<b>Welcome to Satomar's profile 👋</b>
 
 Hello, I'm abdo (a.k.a Satomar)
 
